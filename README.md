@@ -16,7 +16,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Podcasts](#podcasts)
 
 ## Discord Channel
-- [topic-glimmer]()
+- [topic-glimmer](https://discord.gg/emberjs)
 
 ## Websites
 - [glimmerjs.com](https://glimmerjs.com)
