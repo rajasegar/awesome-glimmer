@@ -20,6 +20,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Websites
 - [glimmerjs.com](https://glimmerjs.com)
+- [Glimmer Playground](https://try.glimmerjs.com)
 
 ### Github
 - [glimmerjs](https://github.com/glimmerjs/glimmer.js) - Central repository for the Glimmer.js project 
@@ -29,11 +30,15 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [glimmerx-realworld-example-app](https://github.com/dfreeman/glimmerx-realworld-example-app) - Realworld Example app implemented using Glimmer.
 - [todolist-glimmer-snowpack](https://github.com/rajasegar/todolist-glimmer-snowpack) - Todolist in Glimmer built using Snowpack
 - [glimmer-7guis](https://github.com/rajasegar/glimmer-7guis) - 7GUIs in Glimmer
+- [glimmer-snowpack](https://github.com/rajasegar/glimmer-snowpack) - Snowpack app template for Glimmer
+- [snowpack-app-template-glimmer](https://github.com/rajasegar/snowpack-app-template-glimmer) - Snowpack app template for Glimmer using the glimmer-experimental libraries
+
 
 ## Posts
 - [Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js](https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs) - A Post on LinkedIn Engineering about Glimmer vs Preact.
 - [Building a PWA with Glimmer.js](https://simplabs.com/blog/2018/07/03/building-a-pwa-with-glimmer-js/) - Post by Marco Otte-Witte at Simplabs.
 - [Glimmer.js: What’s the Deal with TypeScript?](https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0) - Post by Tom Dale about Glimmer and Typescript.
+- [Why I'm excited about GlimmerJS](https://hackernoon.com/why-im-excited-about-glimmerjs-3631bd0c95c4) - Blog post by Tristan Edwards in Hackernoon.
 
 ## Videos
 - [Secrets of the Glimmer VM](https://www.youtube.com/watch?v=nXCSloXZ-wc) - Talk by Tom Dale at ReactiveConf 2017.
@@ -45,6 +50,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [An Animated Guide to Ember Internals](https://www.youtube.com/watch?v=A5k2u7AZf6g) - Talk by Gavin Joyce at EmberConf 2017.
 - [Glimmer 2 Deep Dive with Yehuda Katz](https://www.youtube.com/watch?v=vL8sCi1Bv6E) - Discussion with Yehuda Katz on Glimmer 2.
 - [Inside Glimmer 2: What Is A Compiler?](https://www.youtube.com/watch?v=vg5A_UOGShg) - Talk by Godfrey Chan at EmberJSSeattleMeetup.
+- [Using third-party modules in a Glimmer.js app](https://www.youtube.com/watch?v=Lhh7FyOv4fc) - Talk by Jamie White in Glimmer & Freinds.
 
 ## Slides
 - [Building reusable components as micro frontends with glimmer js and webcomponents ](https://www.slideshare.net/andreisebastianc/building-reusable-components-as-micro-frontends-with-glimmer-js-and-webcomponents-96605090) - Slides for the talk by Andrei Sebastian Cîmpean
